@@ -1,0 +1,26 @@
+# Build leftovers (release APKs in version folders ARE committed)
+*.idsig
+*-unsigned.apk
+*.apks
+*.keystore
+*.jks
+
+# Decompile / work output
+smali/
+smali_classes*/
+java/
+build/
+out/
+work/
+
+# Logs (may contain device or account info)
+*.log
+log*.txt
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
