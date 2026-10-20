@@ -18,5 +18,5 @@ I am not responsible for anything.
 
 | Version | APK | What's fixed | Details |
 |---|---|---|---|
-| v19102026 | [`sync.pro.patched-v19102926.apk`](v19102026/sync.pro.patched-v19102926.apk) | "Error loading album" & "error connecting to redgifs" | [FIXES.md](v19102026/FIXES.md) |
+| v19102026 | [`sync.pro.patched-v19102026.apk`](v19102026/sync.pro.patched-v19102026.apk) | "Error loading album" & "error connecting to redgifs" | [FIXES.md](v19102026/FIXES.md) |
 
