@@ -5,7 +5,7 @@
 - **Albums now open.** Gallery posts showed "Error loading album" because Reddit returns 403 for `/api/info`. The app now loads galleries from `/by_id/` instead.
 - **Redgifs full view works.** Previews played, but opening a video failed with "error connecting to redgifs" because redgifs removed its `/info` endpoint (404). The app now skips that step and fetches the video directly.
 - Both fixes are small smali edits on top of the ReVanced-patched APK, tested on device.
-- **Released:** `sync.pro.patched-v19102926.apk`
+- **Released:** `sync.pro.patched-v19102026.apk`
 
 Base APK: `apk\sync.pro.v23.TEST-redgifs.apk` (Sync Pro v23, ReVanced patches already applied).
 Output: `out\patched-v2.apk`. Both fixes are confirmed working on device (OnePlus CPH2573, Android 16).
